@@ -37,9 +37,8 @@ Descubrir relaciones entre productos que suelen comprarse juntos a partir de dat
 ## 🚀 Cómo ejecutar
 
 1. Abrí el notebook en `Python_Scripts/market_basket_analysis.ipynb`
-2. Asegurate de tener instaladas las librerías: `pandas`, `mlxtend`, `matplotlib`, `seaborn`
-3. Importá los datos desde la carpeta `Data/transactions.csv`
-4. Explora los insights o adaptalos a tus propios datos
+2. Agregar la base de datos contenida dentro del repositorio
+3. Ejecutar todas las celdas del notebook
 
 ---
 
